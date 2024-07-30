@@ -5,7 +5,7 @@ New parser program for three sites:
 3. Lolzteam
 4. g2g 
 5. xsolla
-6. 
+
 Finds accounts by favorable or set by you settings and instantly sends to telegram.
 The program is installed on a powerful server, the response is minimal!
 Free version for 30 days! Without specifying details, you will only need mail
