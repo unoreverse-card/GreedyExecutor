@@ -9,3 +9,4 @@ The GreedyExecutor developers present software that includes a collection of scr
 You can download GreedyExecutor on Windows 11/10/8.1/7 PC and Android mobile devices. With the user-friendly interface, you can get your hands on scripts for famous games such as Adopt Me, Arsenal, Phantom Forces, etc. 
 
 
+ 
